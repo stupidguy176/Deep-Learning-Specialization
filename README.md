@@ -2,9 +2,13 @@
 ## Main assigments
 
 ### Module 1 Neural Networks and Deep Learning
+
 Logistic Regression with a Neural Network Mindset
+
 Planar Data Classification with One Hidden Layer
+
 Building your Deep Neural Network: Step by Step
+
 Deep Neural Network - Application
 
 ### Module 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
@@ -19,8 +23,12 @@ Deep Neural Network - Application
 
 ### Documents
 https://www.coursera.org/specializations/deep-learning
+
 https://miro.com/app/board/uXjVK2v19So=/
+
 https://nosy-thought-9e7.notion.site/Deep-Learning-Specialization-fba376f820a04c92b5a08062b6eb79ab?pvs=4
+
+
 
 ### Github
 The experience of predecessors
