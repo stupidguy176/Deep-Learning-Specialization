@@ -18,6 +18,9 @@ The experience of predecessors
 
 ### Ideas
 
+https://www.coursera.org/learn/deep-neural-network/lecture/bqUgf/yoshua-bengio-interview
+
+
 
 
 ### Notes
