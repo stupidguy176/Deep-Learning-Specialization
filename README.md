@@ -1,80 +1,19 @@
 
-## Main assigments
 
-### Module 1 Neural Networks and Deep Learning
+### Deep Learning Specialization
 
-Logistic Regression with a Neural Network Mindset
-
-Planar Data Classification with One Hidden Layer
-
-Building your Deep Neural Network: Step by Step
-
-Deep Neural Network - Application
-
-### Module 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-
-
-
-
-
-
-
-
-
-### Documents
 https://www.coursera.org/specializations/deep-learning
 
-https://miro.com/app/board/uXjVK2v19So=/
+[**Neural Networks and Deep Learning**](https://www.notion.so/Neural-Networks-and-Deep-Learning-7a8240d4f37b450ca8f2247aff77d540?pvs=21)
 
-https://nosy-thought-9e7.notion.site/Deep-Learning-Specialization-fba376f820a04c92b5a08062b6eb79ab?pvs=4
+[**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization**](https://www.notion.so/Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization-bba1aa68c5c7450bab675e5ac59f719a?pvs=21)
 
+[**Structuring Machine Learning Projects**](https://www.notion.so/Structuring-Machine-Learning-Projects-d321f4d23fd043b2a796fdf0f8466e13?pvs=21)
 
+[**Convolutional Neural Networks**](https://www.notion.so/Convolutional-Neural-Networks-e658fb3476bf4d2ebacbc7adb2ad034d?pvs=21)
 
-### Github
-The experience of predecessors
+[**Sequence Models**](https://www.notion.so/Sequence-Models-810f0f02bd9f4d8ba6525320c502d574?pvs=21)
 
-https://github.com/amanchadha/coursera-deep-learning-specialization
-
-https://github.com/greyhatguy007/deep-learning-specialization
-
-https://github.com/pabaq/Coursera-Deep-Learning-Specialization
-
-https://github.com/abdur75648/Deep-Learning-Specialization-Coursera
-
-https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera
-
-https://github.com/TheKidPadra/DeepLearning.AI-Deep-Learning-Specialization
-
-https://github.com/gmortuza/Deep-Learning-Specialization
-
-https://github.com/arindam96/deep-learning-specialization-coursera
-
-https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera
-
-https://github.com/kamrulhasanrony/Deep-Learning-Specialization-Coursera-
-
-https://github.com/ChanchalKumarMaji/Coursera-Deep-Learning-Specialization-deeplearning.ai
-
-https://github.com/AliiPmD/Coursera_Deep_Learning_Specialization
-
-https://github.com/MrinmoiHossain/Deep-Learning-Specialization-Coursera
-
-https://github.com/maancham/Deep-Learning-Specialization
-
-https://github.com/zhang-guodong/Deep-Learning-Specialization
-
-https://github.com/shank885/Deep-Learning-Specialization-Coursera
-
-https://github.com/enggen/Deep-Learning-Coursera
-
-
-### Heroes
-
-1 - https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview
-
-2 - https://www.coursera.org/learn/neural-networks-deep-learning/lecture/eqiZZ/pieter-abbeel-interview
-
-3 - https://www.coursera.org/learn/neural-networks-deep-learning/lecture/WSia1/ian-goodfellow-interview
 
 ### Ideas
 
@@ -87,9 +26,19 @@ I note my assigments.
 I combine the learning from the course with the real project
 
 
+## Module 1 Neural Networks and Deep Learning
+
+Logistic Regression with a Neural Network Mindset
+
+Planar Data Classification with One Hidden Layer
+
+Building your Deep Neural Network: Step by Step
+
+Deep Neural Network - Application
 
 
 
+### Module 2 Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 
 
