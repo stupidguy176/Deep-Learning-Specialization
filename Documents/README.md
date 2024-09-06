@@ -11,6 +11,8 @@ https://nosy-thought-9e7.notion.site/Deep-Learning-Specialization-fba376f820a04c
 ### Github
 The experience of predecessors
 
+https://github.com/ahsan-83/Deep-Learning-Specialization-Coursera
+
 https://github.com/HeroKillerEver/coursera-deep-learning
 
 https://github.com/saint1729/coursera/blob/master/deep-learning
